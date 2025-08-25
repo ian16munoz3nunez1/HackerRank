@@ -1,0 +1,23 @@
+{
+    "Auto_generated": "This file is auto-generated. Any extra tags or formatting will be lost",
+    "target_sets": [
+        {
+            "cmake_config": "",
+            "directory": "%B",
+            "loaded_via_cmake": false,
+            "name": "Conjunto de objetivos",
+            "targets": [
+                {
+                    "build_cmd": "javac",
+                    "name": "java21",
+                    "run_cmd": "java"
+                },
+                {
+                    "build_cmd": "",
+                    "name": "python3",
+                    "run_cmd": "python3"
+                }
+            ]
+        }
+    ]
+}
